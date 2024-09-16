@@ -302,13 +302,17 @@ footer {
 .the-person1 {
   width: 25%;
   height: 500px;
-  background-color: aqua;
+  background-image: url("../images/man1.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .the-person-text1 {
   width: 75%;
   height: 500px;
   background-color: grey;
+  color: white;
 }
 
 .personbox2 {
@@ -321,13 +325,17 @@ footer {
 .the-person2 {
   width: 25%;
   height: 500px;
-  background-color: pink;
+  background-image: url("../images/man2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .the-person-text2 {
   width: 75%;
   height: 500px;
   background-color: grey;
+  color: white;
 }
 
 .personbox3 {
@@ -340,13 +348,17 @@ footer {
 .the-person3 {
   width: 25%;
   height: 500px;
-  background-color: red;
+  background-image: url("../images/woman1.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .the-person-text3 {
   width: 75%;
   height: 500px;
   background-color: grey;
+  color: white;
 }
 
 .personbox4 {
@@ -359,13 +371,17 @@ footer {
 .the-person4 {
   width: 25%;
   height: 500px;
-  background-color: green;
+  background-image: url("../images/woman2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .the-person-text4 {
   width: 75%;
   height: 500px;
   background-color: grey;
+  color: white;
 }
 
 .the-bar {
