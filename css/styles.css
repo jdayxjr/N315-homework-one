@@ -182,7 +182,7 @@ footer {
 .e-box1-section-1 {
   width: 75%;
   height: 500px;
-  background-color: pink;
+  background-color: grey;
 }
 
 .e-box2-section-1 {
@@ -204,7 +204,7 @@ footer {
 .e-box2-section-2 {
   width: 75%;
   height: 500px;
-  background-color: green;
+  background-color: grey;
 }
 
 .e-box1-section-2 {
@@ -219,7 +219,7 @@ footer {
 .e-box2-section-3 {
   width: 75%;
   height: 500px;
-  background-color: green;
+  background-color: grey;
 }
 
 .e-box1-section-3 {
@@ -240,7 +240,7 @@ footer {
 .e-box2-section-4 {
   width: 75%;
   height: 500px;
-  background-color: green;
+  background-color: grey;
 }
 
 .e-box1-section-4 {
@@ -250,4 +250,28 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.thing-box-1 {
+  width: 100%;
+  height: 500px;
+  background-color: grey;
+}
+
+.thing-box-2 {
+  width: 100%;
+  height: 500px;
+  background-color: blue;
+}
+
+.thing-box-3 {
+  width: 100%;
+  height: 500px;
+  background-color: purple;
+}
+
+.thing-box-4 {
+  width: 100%;
+  height: 500px;
+  background-color: red;
 }
