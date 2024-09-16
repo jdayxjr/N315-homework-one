@@ -7,17 +7,28 @@
 .thing-box-2 {
   width: 100%;
   height: 500px;
-  background-color: blue;
+  background-color: grey;
 }
 
 .thing-box-3 {
   width: 100%;
   height: 500px;
-  background-color: purple;
+  background-color: grey;
 }
 
 .thing-box-4 {
   width: 100%;
   height: 500px;
-  background-color: red;
+  background-color: grey;
+}
+
+.thing-content {
+  text-align: center;
+  color: white;
+}
+
+.the-bar {
+  width: 100%;
+  height: 30px;
+  background-color: white;
 }
