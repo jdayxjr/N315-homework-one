@@ -10,6 +10,12 @@
   height: 500px;
 }
 
+.the-bar {
+  width: 100%;
+  height: 30px;
+  background-color: white;
+}
+
 .banner_title {
   text-align: center;
   color: #fff;
@@ -47,7 +53,7 @@
   justify-content: space-between;
   width: 100%;
   height: 500px;
-  background-color: #4f4a4a;
+  background-color: grey;
 }
 
 .content_box {
@@ -96,11 +102,11 @@
 .section_four {
   width: 100%;
   height: 500px;
-  background-color: brown;
+  background-color: grey;
 }
 
 .content-four {
-  background-color: pink;
+  background-color: darkgrey;
   margin: auto;
   width: 600px;
   height: 500px;
