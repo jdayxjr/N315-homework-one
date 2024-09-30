@@ -39,7 +39,7 @@ nav a {
 }
 
 .section_one {
-  background-image: url("/images/foresthome.jpg");
+  background-image: url("../images/foresthome.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -73,7 +73,7 @@ nav a {
 .box_one {
   width: 25%;
   height: 500px;
-  background-image: url("/images/mission.jpg");
+  background-image: url("../images/mission.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -108,7 +108,7 @@ nav a {
 }
 
 .content-image {
-  background-image: url("/images/summer.jpg");
+  background-image: url("../images/summer.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -119,7 +119,7 @@ nav a {
 }
 
 .content-image2 {
-  background-image: url("/images/fall.jpg");
+  background-image: url("../images/fall.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -130,7 +130,7 @@ nav a {
 }
 
 .content-image3 {
-  background-image: url("/images/winter.jpg");
+  background-image: url("../images/winter.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -198,7 +198,7 @@ nav a {
 }
 
 .explore-one-banner {
-  background-image: url("/images/foresthome.jpg");
+  background-image: url("../images/foresthome.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
