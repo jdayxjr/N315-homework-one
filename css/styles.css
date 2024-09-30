@@ -19,6 +19,12 @@ p {
   margin-bottom: 16px;
 }
 
+footer {
+  height: 50px;
+  width: 100%;
+  background-color: black;
+}
+
 nav {
   height: 50px;
   background-color: #000;
@@ -156,10 +162,39 @@ nav a {
   text-align: center;
 }
 
-footer {
-  height: 50px;
+.thing-box-1 {
   width: 100%;
-  background-color: black;
+  height: 500px;
+  background-color: grey;
+}
+
+.thing-box-2 {
+  width: 100%;
+  height: 500px;
+  background-color: grey;
+}
+
+.thing-box-3 {
+  width: 100%;
+  height: 500px;
+  background-color: grey;
+}
+
+.thing-box-4 {
+  width: 100%;
+  height: 500px;
+  background-color: grey;
+}
+
+.thing-content {
+  text-align: center;
+  color: white;
+}
+
+.the-bar {
+  width: 100%;
+  height: 30px;
+  background-color: white;
 }
 
 .explore-one-banner {
@@ -263,41 +298,6 @@ footer {
 .text-div {
   text-align: center;
   color: #fff;
-}
-
-.thing-box-1 {
-  width: 100%;
-  height: 500px;
-  background-color: grey;
-}
-
-.thing-box-2 {
-  width: 100%;
-  height: 500px;
-  background-color: grey;
-}
-
-.thing-box-3 {
-  width: 100%;
-  height: 500px;
-  background-color: grey;
-}
-
-.thing-box-4 {
-  width: 100%;
-  height: 500px;
-  background-color: grey;
-}
-
-.thing-content {
-  text-align: center;
-  color: white;
-}
-
-.the-bar {
-  width: 100%;
-  height: 30px;
-  background-color: white;
 }
 
 .personbox1 {
